@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cd.xsl"?>
+<contactbook>
+	<title>Directory</title>
+	<listname>Contact Directory</listname>
+		<contact>
+			<job>Chief Web Development Officer</job>
+			<name>Andrew Cessna</name>
+			<cell>407-888-8888</cell>
+			<home>n/a</home>
+			<email>mail@mail.com</email>
+			<address>123 Main St, Orlando, FL 32708</address>
+		</contact>
+		<owner>
+			<job>Owner</job>
+			<name>Bill Brock</name>
+			<cell>407-555-5555</cell>
+			<home>407-123-4567</home>
+			<email>mailowner@mail.com</email>
+			<address>123 Main St, Orlando, FL 32708</address>
+		</owner>
+		<manager>
+			<job>Manager/Operator</job>
+			<name>Cindy Brock</name>
+			<cell>407-444-4444</cell>
+			<home>407-123-4567</home>
+			<email>mailmanage@mail.com</email>
+			<address>123 Main St, Orlando, FL 32708</address>
+		</manager>
+		<chef>
+			<job>Head Chef</job>
+			<name>Gordon Ramsey</name>
+			<cell>321-456-7890</cell>
+			<home>n/a</home>
+			<email>cheframsey@mail.com</email>
+			<address>123 Main St, Orlando, FL 32708</address>
+		</chef>
+</contactbook>

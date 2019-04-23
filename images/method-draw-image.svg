@@ -1,0 +1,53 @@
+<svg width="64" height="80" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path fill="#7f7f7f" id="svg_11" d="m50.008,59.998a1,1 0 0 1 -1,-1l0,-19a1,1 0 1 1 2,0l0,19a1,1 0 0 1 -1,1z"/>
+  <path fill="#7f7f7f" id="svg_8" d="m32.002,59.998a1,1 0 0 1 -1,-1l0,-19a1,1 0 1 1 2,0l0,19a1,1 0 0 1 -1,1z"/>
+  <path fill="#7f7f7f" id="svg_14" d="m13.996,59.998a1,1 0 0 1 -1,-1l0,-19a1,1 0 1 1 2,0l0,19a1,1 0 0 1 -1,1z"/>
+  <path fill="#007f3f" id="svg_18" d="m33.006,24.992a1,1 0 0 1 -1,-1l0,-10.992a1,1 0 1 1 2,0l0,10.992a1,1 0 0 1 -1,1z"/>
+  <path fill="#007f3f" id="svg_17" d="m22.005,24.992a1,1 0 0 1 -1,-1l0,-10.992a1,1 0 1 1 2,0l0,10.992a1,1 0 0 1 -1,1z"/>
+  <path fill="#7f3f00" id="svg_30" d="m42.004,24.992a1,1 0 0 1 -1,-1l0,-5.99a1,1 0 1 1 2,0l0,5.99a1,1 0 0 1 -1,1z"/>
+  <path fill="#7f3f00" id="svg_29" d="m37.004,24.992a1,1 0 0 1 -1,-1l0,-5.99a1,1 0 1 1 2,0l0,5.99a1,1 0 0 1 -1,1z"/>
+  <rect id="svg_34" height="1.874996" width="8.499983" y="21.554724" x="5.062554" stroke-opacity="null" stroke-width="null" stroke="null" fill="#666666"/>
+  <path fill="#4C261D" id="svg_1" d="m62.992,24.992l-62,0a1,1 0 1 1 0,-2l62,0a1,1 0 1 1 0,2z"/>
+  <path stroke-width="null" fill="#7a4033" id="svg_5" d="m2.007,59.998a1,1 0 0 1 -1,-1l0,-31.006a1,1 0 1 1 2,0l0,31.006a1,1 0 0 1 -1,1z"/>
+  <path stroke-width="null" fill="#7a4033" id="svg_4" d="m62.009,59.998a1,1 0 0 1 -1,-1l0,-31.006a1,1 0 1 1 2,0l0,31.006a1,1 0 0 1 -1,1z"/>
+  <path fill="#4C261D" id="svg_2" d="m63.008,28.742001l-62,0a1,1 0 1 1 0,-2l62,0a1,1 0 1 1 0,2z"/>
+  <path fill="#4C261D" id="svg_3" d="m63.008,28.992a1,1 0 0 1 -1,-1l0,-4a1,1 0 1 1 2,0l0,4a1,1 0 0 1 -1,1z"/>
+  <path fill="#4C261D" id="svg_6" d="m1.008,28.992a1,1 0 0 1 -1,-1l0,-4a1,1 0 1 1 2,0l0,4a1,1 0 0 1 -1,1z"/>
+  <path fill="#bf0000" id="svg_7" d="m39.009,40.998l-14,0a1,1 0 0 1 -1,-1l0,-4a1,1 0 0 1 1,-1l14,0a1,1 0 0 1 1,1l0,4a1,1 0 0 1 -1,1zm-13,-2l12,0l0,-2l-12,0l0,2z"/>
+  <path id="svg_9" d="m37.007,51.992l-9.996,0a1,1 0 1 1 0,-2l9.996,0a1,1 0 1 1 0,2z"/>
+  <path fill="#bf0000" id="svg_10" d="m57.015,40.998l-14,0a1,1 0 0 1 -1,-1l0,-4a1,1 0 0 1 1,-1l14,0a1,1 0 0 1 1,1l0,4a1,1 0 0 1 -1,1zm-13,-2l12,0l0,-2l-12,0l0,2z"/>
+  <path id="svg_12" d="m55.013,51.992l-9.996,0a1,1 0 1 1 0,-2l9.996,0a1,1 0 1 1 0,2z"/>
+  <path fill="#bf0000" id="svg_13" d="m21.003,40.998l-14,0a1,1 0 0 1 -1,-1l0,-4a1,1 0 0 1 1,-1l14,0a1,1 0 0 1 1,1l0,4a1,1 0 0 1 -1,1zm-13,-2l12,0l0,-2l-12,0l0,2z"/>
+  <path id="svg_15" d="m19.001,51.992l-9.996,0a1,1 0 1 1 0,-2l9.996,0a1,1 0 1 1 0,2z"/>
+  <path fill="#cccccc" id="svg_16" d="m63.008,60.002l-62,0a1,1 0 1 1 0,-2l62,0a1,1 0 1 1 0,2z"/>
+  <path fill="#007f3f" id="svg_19" d="m22.005,14a1,1 0 0 1 -1,-1c0,-1.654 1.346,-3 3,-3a1,1 0 1 1 0,2a1,1 0 0 0 -1,1a1,1 0 0 1 -1,1z"/>
+  <path fill="#007f3f" id="svg_20" d="m33.006,14a1,1 0 0 1 -1,-1a1,1 0 0 0 -1,-1a1,1 0 1 1 0,-2c1.654,0 3,1.346 3,3a1,1 0 0 1 -1,1z"/>
+  <path fill="#007f3f" id="svg_21" d="m26.005,12a1,1 0 0 1 -1,-1l0,-6.002a1,1 0 1 1 2,0l0,6.002a1,1 0 0 1 -1,1z"/>
+  <path fill="#007f3f" id="svg_22" d="m28.989,12a1,1 0 0 1 -1,-1l0,-6.002a1,1 0 1 1 2,0l0,6.002a1,1 0 0 1 -1,1z"/>
+  <path fill="#007f3f" id="svg_23" d="m31.006,12l-2.017,0a1,1 0 1 1 0,-2l2.017,0a1,1 0 1 1 0,2z"/>
+  <path transform="rotate(0.46387264132499695 25.004999160766324,11.000000000000142) " fill="#007f3f" id="svg_24" d="m26.005,12l-2,0a1,1 0 1 1 0,-2l2,0a1,1 0 1 1 0,2z"/>
+  <path transform="rotate(-0.7830924987792969 27.496999740600625,4.998000144958396) " fill="#007f3f" id="svg_25" d="m28.989,5.998l-2.984,0a1,1 0 1 1 0,-2l2.984,0a1,1 0 1 1 0,2z"/>
+  <path fill="#007f3f" id="svg_26" d="m33.006,16l-11.001,0a1,1 0 1 1 0,-2l11.001,0a1,1 0 1 1 0,2z"/>
+  <path fill="#007f3f" id="svg_27" d="m22.005,21.002a1,1 0 1 1 0,-2l11.001,-0.002a1,1 0 1 1 0,2l-11.001,0.002z"/>
+  <path style="vector-effect: non-scaling-stroke;" fill="#007f3f" id="svg_28" d="m28.989,9l-2.984,0a1,1 0 1 1 0,-2l2.984,0a1,1 0 1 1 0,2z"/>
+  <path fill="#7f3f00" id="svg_31" d="m42.004,19.002l-5,0a1,1 0 1 1 0,-2l5,0a1,1 0 1 1 0,2z"/>
+  <path fill="#7f3f00" id="svg_32" d="m42.004,21.996l-5,0a1,1 0 1 1 0,-2l5,0a1,1 0 1 1 0,2z"/>
+  <rect id="svg_35" height="1.124998" width="0.999998" y="20.804726" x="8.562547" stroke-opacity="null" stroke-width="null" stroke="null" fill="#666666"/>
+  <rect id="svg_36" height="5.999988" width="2.374995" y="14.929738" x="7.937548" stroke-opacity="null" stroke-width="null" stroke="null" fill="#513b26"/>
+  <ellipse ry="1.937496" rx="2.749994" id="svg_37" cy="14.117239" cx="9.187546" stroke-opacity="null" stroke-width="null" stroke="null" fill="#513b26"/>
+  <ellipse id="svg_38" cy="33.304701" cx="21.312521" stroke-opacity="null" stroke-width="null" stroke="null" fill="#513b26"/>
+  <ellipse ry="0.749998" rx="1.249997" id="svg_39" cy="14.179739" cx="9.187546" stroke-opacity="null" stroke-width="null" stroke="null" fill="#513b26"/>
+  <ellipse stroke="null" ry="1.0625" rx="1.749996" id="svg_40" cy="14.117246" cx="9.187546" stroke-opacity="null" stroke-width="null" fill="#b27740"/>
+  <rect stroke="null" id="svg_41" height="2.124996" width="12.624975" y="36.929694" x="7.812548" stroke-opacity="null" stroke-width="null" fill="#ffffff"/>
+  <rect stroke="null" id="svg_44" height="2.124996" width="12.624975" y="36.804694" x="25.812512" stroke-opacity="null" stroke-width="null" fill="#ffffff"/>
+  <rect stroke="null" id="svg_45" height="2.124996" width="12.624975" y="36.929694" x="44.062476" stroke-opacity="null" stroke-width="null" fill="#ffffff"/>
+  <rect id="svg_46" height="2.124996" width="60.749878" y="24.804718" x="1.687561" stroke-width="null" fill="#4C261D"/>
+ </g>
+</svg>

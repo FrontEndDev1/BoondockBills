@@ -1,0 +1,143 @@
+.navbar {display:flex;/*justify-content:center; */ flex-direction:row;  list-style:none;}
+
+.navitem {/*display:flex; */ padding:1em; font-family: 'Montserrat', sans-serif;}
+
+.n {text-decoration:none; color:rgb(220, 220, 220); font-family: 'Montserrat', sans-serif;}
+
+.navbox {/*padding:1em;*/ display:grid; grid-template:1fr / auto 1fr auto auto; background-color:rgb(206, 135, 57);}
+
+.svg {padding:0.75em 1em 0 1em;}
+
+.cusbutton {padding-top:2em;}
+
+.greet {padding-top:1.5em;}
+
+body {display:grid; grid-template:88px auto auto / auto; background-color:rgb(195, 155, 111); background-image:url('images/52579-9579057.jpg');}
+
+footer {text-align:center; color:#e8e3b3;}
+
+.main {display:block; background:bisque; width:1250px; margin:auto; max-width:100%;}
+
+.mainp {display:flex; justify-content:center; max-width:100%; margin:auto; background-image:url('images/bargril.jpg'); width:1250px; height:500px;}
+
+h2 {font-size:2em; font-family: 'Cabin Sketch', cursive; padding:1.5em; text-align:center;}
+
+h1.h1 {float:auto; color:white; display:flex; justify-content:center; align-item:center; font-size:5em; font-family: 'Charmonman', cursive; padding-top:2.5em;}
+
+iframe {padding:2.5em; display:flex; flex-direction:column;}
+
+.homeitems {padding:1.5em; background-color:#fff4e7; display:flex; flex-direction:column;}
+
+.l1 {font-weight:bold; font-size:1.5em;}
+
+.loco {display:flex; flex-direction:row;}
+
+.add {padding:1.5em;}
+
+p {font-family:sans-serif;}
+
+.p {font-family:fantasy;}
+
+.events {display:flex; flex-direction:row; align-content:space-between; flex-wrap:wrap; padding:1.5em; justify-content:space-around;}
+
+.mini {display:flex; flex-direction:column; flex-wrap:wrap; max-width:425px; border:1px #d6be9c; background-color:#d6be9c; box-shadow:1px 5px 15px; }
+
+.mini2 {display:flex; justify-content:center;  max-width:425px; border:1px #d6be9c; background-color:#d6be9c; box-shadow:1px 5px 15px; padding:2em; margin:auto;}
+
+.mini3 {display:flex; justify-content:center; flex-direction:column;  max-width:425px; border:1px #d6be9c; background-color:#d6be9c; box-shadow:1px 5px 15px; padding:2em; margin:1.5em;}
+
+.mini4 {display:flex; justify-content:center; flex-direction:column; border:1px #d6be9c; background-color:#d6be9c; box-shadow:1px 5px 15px; padding:2em; margin:1.5em;}
+
+.img {max-width:400px; max-height:225px; margin:auto; padding-top:1em; width:100%;}
+
+.ep {padding:1em;}
+
+.el {padding:1em; text-align:center; font-size:1.5em; font-family:fantasy;}
+
+a.botlink:link {color:darkorange;}
+a.botlink:visited {color:darkorange;}
+a.botlink:hover {text-decoration:none;}
+a.botlink:active {color:#dcdcdc;}
+
+.mh {font-size:1.75em; font-family: 'Cabin Sketch', cursive;}
+
+dt {font-family: 'Cabin Sketch', cursive;}
+
+input.texty, select, textarea 
+	{width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;}
+input[type=submit] 
+	{background-color:rgb(206, 135, 57);
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;}
+input[type=submit]:hover {background-color:#717171;}
+
+#iFeatures {
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  height: 500px;
+  left: 0;
+  bottom: 126px;
+}
+.ticker {
+  top: 25%;
+  left: 40px;
+  right: 10px;
+  bottom: 10%;
+  overflow: hidden;
+}
+
+.ticker p {
+  position: relative;
+  top: 0;
+  white-space: nowrap;
+  width: auto;
+  font-weight: bolder;
+  font-size: 1.5em;
+}
+
+#ex1 {margin-top: 6em; height:100px;}
+
+input.form-control.form-control-sm {height: auto;}
+
+a.mclose:hover {color:red; text-decoration:none;}
+
+a.mopen {
+	background-color: #18a1b8;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;}
+	
+a.mopen:hover {background-color:#717171; text-decoration:none;}
+
+a.n:hover {text-decoration:none; color:#18a1b8;}
+
+@media screen and (max-width : 7in) {
+	.cusbutton {padding-top:2em; display:none;}
+	.greet {padding-top:1.5em; display:none;}
+	.navbox {/*padding:1em;*/ display:grid; grid-template:1fr / auto auto; background-color:rgb(206, 135, 57);}
+	div.1{order:3;}
+}
+
+@media screen and (max-width : 3.5in) {
+
+  ul.navbar {display:flex; flex-direction:column;}
+}
+
+@media screen and (max-width : 3.5in) {
+
+  .events {display:flex; flex-direction:column; padding:1.5em; justify-content:space-around;}
+}
